@@ -14,3 +14,4 @@ Toy Story 3
 Upstream Color
 Synecdoche New York
 Cats
+Dogs
